@@ -15,18 +15,11 @@ font-family: 'Yeseva One', cursive;
 body {
     font-family: 'Poppins', sans-serif;
     color: #333333;
-    background-color: #fffff;
-
 }
 
-/* #333333
-#FFAD5A
-#13103A
-#0B0D17
-
-#FF5959 --> Button COlor
-
-*/
+.color-red {
+    color: #FF5959;
+}
 
 .color-orange {
     color: #FFAD5A;
@@ -69,7 +62,7 @@ section {
     padding: 50px 0px;
 }
 
-.Hero_area{
+.Hero_area {
     margin-top: 8%;
 }
 
